@@ -10,4 +10,4 @@ This project uses a CNN to classify images of dogs and cats. The model is traine
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/dog-vs-cat.git
+   git clone https://github.com/Batra1-2-3/dog-vs-cat.git
